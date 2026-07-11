@@ -2,6 +2,8 @@
 
 Find and free local ports from your terminal.
 
+![Unbind TUI showing local listening ports](docs/tui.png)
+
 ## Usage
 
 ```bash
