@@ -2,6 +2,7 @@
 
 Find and free local ports from your terminal.
 
+![Unbind TUI showing local listening ports](docs/tui.png)
 ## Install
 
 Install the latest GitHub Release:
