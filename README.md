@@ -3,6 +3,25 @@
 Find and free local ports from your terminal.
 
 ![Unbind TUI showing local listening ports](docs/tui.png)
+## Install
+
+Install the latest GitHub Release:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/felipersas/unbind/main/install.sh | sh
+```
+
+Install a specific version:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/felipersas/unbind/main/install.sh | UNBIND_VERSION=v0.1.0 sh
+```
+
+By default, the script installs to `~/.local/bin`. Override it with:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/felipersas/unbind/main/install.sh | UNBIND_INSTALL_DIR=/usr/local/bin sh
+```
 
 ## Usage
 
