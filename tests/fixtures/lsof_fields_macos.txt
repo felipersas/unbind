@@ -1,0 +1,16 @@
+p18422
+cnode
+PTCP
+n127.0.0.1:3000
+p902
+cpostgres
+PTCP
+n*:5432
+p840
+cSpotify
+PTCP
+n*:51476
+p840
+cSpotify
+PTCP
+n*:51476
